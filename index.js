@@ -32,4 +32,4 @@ const timer = setInterval(() => {
 }, INTERVAL);
 
 // Optional: stop automatically
-setTimeout(() => clearInterval(timer), RUN_TIME);
+// setTimeout(() => clearInterval(timer), RUN_TIME);
